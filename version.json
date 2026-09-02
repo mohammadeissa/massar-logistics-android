@@ -2,6 +2,7 @@
   "versionCode": 2,
   "versionName": "1.0-test",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "notes": "Banner test",
-  "notesAr": "اختبار الشريط"
+  "minVersionCode": 2,
+  "notes": "Gate test",
+  "notesAr": "اختبار الإجبار"
 }
