@@ -11,7 +11,7 @@
   <style>
     :root {
       --bg: #0b0f14; --card: #131a23; --line: #1f2937; --text: #f3f4f6; --muted: #9ca3af;
-      --amber: #fbbf24; --amber-dark: #b45309; --green: #34d399;
+      --amber: #bfbfbf; --amber-dark: #00067b; --green: #34d399; /* MSR kit: grey accent on dark chrome, navy text */
     }
     * { box-sizing: border-box; }
     body {
@@ -25,9 +25,9 @@
     header h1 { margin: 0; font-size: 22px; line-height: 1.2; }
     header p { margin: 4px 0 0; color: var(--muted); font-size: 15px; }
     .cta {
-      display: block; text-align: center; text-decoration: none; background: var(--amber); color: #111827;
+      display: block; text-align: center; text-decoration: none; background: var(--amber); color: var(--amber-dark);
       font-weight: 900; font-size: 20px; padding: 18px 20px; border-radius: 18px;
-      box-shadow: 0 10px 30px rgba(251,191,36,.25);
+      box-shadow: 0 10px 30px rgba(191,191,191,.18);
     }
     .cta:active { transform: scale(.99); }
     .meta { text-align: center; color: var(--muted); font-size: 14px; margin: 10px 0 24px; min-height: 1.5em; }
