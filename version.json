@@ -1,12 +1,12 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.1/massar-logistics.apk",
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.2/massar-logistics.apk",
   "minVersionCode": 1,
-  "notes": "New Massar brand: navy and grey colours, the MSR logo, Montserrat and MV Sans type. No functional changes.",
-  "notesAr": "الهوية الجديدة لمسار: ألوان كحلي ورمادي، شعار MSR، وخطوط جديدة. لا تغييرات في الوظائف.",
-  "sha256": "7b4f76c3417a796244e23e2c46b5254053020fcf7a557e0b5163c6352df7652d",
-  "sizeBytes": 34507601,
-  "publishedAt": "2026-09-03T16:14:29Z"
+  "notes": "New Massar app icon. Delivery photos: take a picture with the camera or pick from the gallery (up to 6 per stop).",
+  "notesAr": "أيقونة مسار الجديدة. صور التسليم: صوّر بالكاميرا أو اختار من الاستوديو (لحد ٦ صور لكل طلب).",
+  "sha256": "dbad26a9298b3d9deaf7c6846c8912f9950919abe9f67ec7c4009ee6cf7ea654",
+  "sizeBytes": 34556994,
+  "publishedAt": "2026-09-03T17:08:47Z"
 }
