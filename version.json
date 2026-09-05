@@ -1,12 +1,12 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.2/massar-logistics.apk",
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.3/massar-logistics.apk",
   "minVersionCode": 1,
-  "notes": "New Massar app icon. Delivery photos: take a picture with the camera or pick from the gallery (up to 6 per stop).",
-  "notesAr": "أيقونة مسار الجديدة. صور التسليم: صوّر بالكاميرا أو اختار من الاستوديو (لحد ٦ صور لكل طلب).",
-  "sha256": "dbad26a9298b3d9deaf7c6846c8912f9950919abe9f67ec7c4009ee6cf7ea654",
-  "sizeBytes": 34556994,
-  "publishedAt": "2026-09-03T17:08:47Z"
+  "notes": "Order type on every card (COD / exchange / refund), open-package rule, refused-after-inspection reason, screenshot required for a reschedule, gallery photos, folding header, cash handover confirm with returns first and a history page.",
+  "notesAr": "نوع الأوردر على كل كارت (تحصيل / استبدال / استرجاع)، قاعدة فتح الطرد، سبب رفض بعد المعاينة، سكرين شوت لازم لإعادة الجدولة، صور من الاستوديو، الهيدر بيتقفل، تأكيد تسليم الكاش مع رجوع الطرود الأول وسجل التسليمات.",
+  "sha256": "6a84577db6a817a164b05a1c965ee4652e77adcb1c2a5aea13ec570e13405bb1",
+  "sizeBytes": 34565638,
+  "publishedAt": "2026-09-05T21:41:08Z"
 }
