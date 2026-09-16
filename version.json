@@ -1,12 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.4/massar-logistics.apk",
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.5/massar-logistics.apk",
   "minVersionCode": 1,
-  "notes": "One-bar header, Modern Standard Arabic, cancel at the door cancels the order, cash handover locked until the office scans returns in, bring-back list on the deliveries tab.",
-  "notesAr": "شريط علوي واحد، عربية فصحى، إلغاء الطلب من عند العميل يلغيه فعليًا، تسليم النقدية مغلق حتى يستلم المكتب المرتجعات، قائمة المرتجعات في تبويب التوصيلات.",
-  "sha256": "fe3b6ac662e22c695a5fb83e703705927b3537402472ea0f69fe1d8a55d276c2",
-  "sizeBytes": 34569442,
-  "publishedAt": "2026-09-05T23:00:04Z"
+  "notes": "Browse today and past days in Order history. Search by waybill, customer, phone or brand, filter dates and status, and open order details. Recorded history remains after reassignment and cash handover.",
+  "notesAr": "سجل الطلبات لليوم والأيام السابقة، مع البحث برقم البوليصة أو العميل أو الهاتف أو العلامة التجارية، وتصفية التاريخ والحالة وعرض التفاصيل. يبقى السجل المسجل بعد إعادة التكليف وتسليم النقدية.",
+  "sha256": "3da2cec229a59f2b0670ded795f6bd8651459db6d358eb16e274b99a9260c77e",
+  "sizeBytes": 34574563,
+  "publishedAt": "2026-09-16T02:05:30Z"
 }
