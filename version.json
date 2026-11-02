@@ -1,12 +1,12 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.6/massar-logistics.apk",
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.7/massar-logistics.apk",
   "minVersionCode": 7,
-  "notes": "Pickups: one Scan button — scan every waybill you collect, then confirm once. New Routes tab: Key Account routes from the office, with Google Maps for every stop and a Delivered button.",
-  "notesAr": "الاستلامات: زر مسح واحد — امسح كل بوليصة تستلمها ثم أكّد مرة واحدة. تبويب جديد «المسارات»: مسارات كبار العملاء من المكتب، مع خرائط جوجل لكل محطة وزر «تم التسليم».",
-  "sha256": "42320947ec22ea854bd594d9b125c4d3e5c54f46c0ef52cd685f9bab8e6d028a",
-  "sizeBytes": 34582454,
-  "publishedAt": "2026-11-01T09:28:07Z"
+  "notes": "Pickups: after you confirm a scan, the orders now read Received by Courier.",
+  "notesAr": "الاستلامات: بعد تأكيد المسح تصبح حالة الطلبات «استلمها المندوب».",
+  "sha256": "4c826a87ef18715319041ce663ea80141830c832856331d5e6d82631ec279f91",
+  "sizeBytes": 34582574,
+  "publishedAt": "2026-11-02T16:04:05Z"
 }
