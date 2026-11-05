@@ -1,12 +1,12 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.7/massar-logistics.apk",
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.8/massar-logistics.apk",
   "minVersionCode": 7,
-  "notes": "Pickups: after you confirm a scan, the orders now read Received by Courier.",
-  "notesAr": "الاستلامات: بعد تأكيد المسح تصبح حالة الطلبات «استلمها المندوب».",
-  "sha256": "4c826a87ef18715319041ce663ea80141830c832856331d5e6d82631ec279f91",
-  "sizeBytes": 34582574,
-  "publishedAt": "2026-11-02T16:04:05Z"
+  "notes": "Routes: each stop now shows what to carry, for example 3 Hydration in blue and 4 Glow in pink, with the pack size.",
+  "notesAr": "المسارات: تعرض كل محطة الآن ما يجب حمله، مثل ٣ هيدريشن بالأزرق و٤ جلو بالوردي، مع حجم العبوة.",
+  "sha256": "22bb15e15611c09518eab5fca1cbdd76b02e7a0b2ea2731804c23b1a5b98be11",
+  "sizeBytes": 34583330,
+  "publishedAt": "2026-11-05T22:41:08Z"
 }
