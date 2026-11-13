@@ -1,12 +1,12 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.8/massar-logistics.apk",
-  "minVersionCode": 7,
-  "notes": "Routes: each stop now shows what to carry, for example 3 Hydration in blue and 4 Glow in pink, with the pack size.",
-  "notesAr": "المسارات: تعرض كل محطة الآن ما يجب حمله، مثل ٣ هيدريشن بالأزرق و٤ جلو بالوردي، مع حجم العبوة.",
-  "sha256": "22bb15e15611c09518eab5fca1cbdd76b02e7a0b2ea2731804c23b1a5b98be11",
-  "sizeBytes": 34583330,
-  "publishedAt": "2026-11-05T22:41:08Z"
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.9/massar-logistics.apk",
+  "minVersionCode": 10,
+  "notes": "Every delivery, return or problem now needs your location. If GPS is slow the app uses the network location instead. Photos are optional on a delivery.",
+  "notesAr": "كل تسليم أو مرتجع أو مشكلة يحتاج الآن إلى موقعك. إذا كان الـGPS بطيئاً يستخدم التطبيق موقع الشبكة. الصور اختيارية عند التسليم.",
+  "sha256": "847f9e62352d74ad909dee7f8ef7628b1454e3061f14fb3d2e5e19fb3883fb81",
+  "sizeBytes": 34583242,
+  "publishedAt": "2026-11-13T02:52:48Z"
 }
