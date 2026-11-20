@@ -1,12 +1,12 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.10",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.9/massar-logistics.apk",
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.10/massar-logistics.apk",
   "minVersionCode": 10,
-  "notes": "Every delivery, return or problem now needs your location. If GPS is slow the app uses the network location instead. Photos are optional on a delivery.",
-  "notesAr": "كل تسليم أو مرتجع أو مشكلة يحتاج الآن إلى موقعك. إذا كان الـGPS بطيئاً يستخدم التطبيق موقع الشبكة. الصور اختيارية عند التسليم.",
-  "sha256": "847f9e62352d74ad909dee7f8ef7628b1454e3061f14fb3d2e5e19fb3883fb81",
-  "sizeBytes": 34583242,
-  "publishedAt": "2026-11-13T02:52:48Z"
+  "notes": "New: after a delivery, tap Scan invoice to scan the customer's invoice. The camera finds the page and takes the photo by itself. Optional.",
+  "notesAr": "جديد: بعد التسليم اضغط مسح الفاتورة ضوئيًا لمسح فاتورة العميل. الكاميرا تحدد الورقة وتلتقط الصورة تلقائيًا. اختياري.",
+  "sha256": "7bc5b5583b241b3c46b6e461c5d44bfe5ff8143666443794b4297424b55927ac",
+  "sizeBytes": 34651789,
+  "publishedAt": "2026-11-20T16:46:50Z"
 }
