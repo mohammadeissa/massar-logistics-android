@@ -1,12 +1,12 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
+  "versionCode": 12,
+  "versionName": "1.11",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.10/massar-logistics.apk",
-  "minVersionCode": 10,
-  "notes": "New: after a delivery, tap Scan invoice to scan the customer's invoice. The camera finds the page and takes the photo by itself. Optional.",
-  "notesAr": "جديد: بعد التسليم اضغط مسح الفاتورة ضوئيًا لمسح فاتورة العميل. الكاميرا تحدد الورقة وتلتقط الصورة تلقائيًا. اختياري.",
-  "sha256": "7bc5b5583b241b3c46b6e461c5d44bfe5ff8143666443794b4297424b55927ac",
-  "sizeBytes": 34651789,
-  "publishedAt": "2026-11-20T16:46:50Z"
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.11/massar-logistics.apk",
+  "minVersionCode": 12,
+  "notes": "Key accounts: tap Delivered or Problem on a route stop. Problem lets you record a partial delivery, a cancelled or refused drop, or a new day. Your location is required; photos are optional. After a delivery you can scan the signed delivery note.",
+  "notesAr": "الحسابات الكبرى: اضغط تم التسليم أو مشكلة على نقطة المسار. من مشكلة يمكنك تسجيل تسليم جزئي أو إلغاء/رفض أو يوم جديد. الموقع مطلوب والصور اختيارية. بعد التسليم يمكنك مسح إذن التسليم الموقّع.",
+  "sha256": "2da43e14a16a6736068fecfc3192f583d36a932e342a3334c24f1f5693234601",
+  "sizeBytes": 34655379,
+  "publishedAt": "2026-11-20T20:54:00Z"
 }
