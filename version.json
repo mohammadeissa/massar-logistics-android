@@ -1,12 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
+  "versionCode": 13,
+  "versionName": "1.12",
   "apkUrl": "https://github.com/mohammadeissa/massar-logistics-android/releases/latest/download/massar-logistics.apk",
-  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.11/massar-logistics.apk",
-  "minVersionCode": 12,
-  "notes": "Key accounts: tap Delivered or Problem on a route stop. Problem lets you record a partial delivery, a cancelled or refused drop, or a new day. Your location is required; photos are optional. After a delivery you can scan the signed delivery note.",
-  "notesAr": "الحسابات الكبرى: اضغط تم التسليم أو مشكلة على نقطة المسار. من مشكلة يمكنك تسجيل تسليم جزئي أو إلغاء/رفض أو يوم جديد. الموقع مطلوب والصور اختيارية. بعد التسليم يمكنك مسح إذن التسليم الموقّع.",
-  "sha256": "2da43e14a16a6736068fecfc3192f583d36a932e342a3334c24f1f5693234601",
-  "sizeBytes": 34655379,
-  "publishedAt": "2026-11-20T20:54:00Z"
+  "apkUrlPinned": "https://github.com/mohammadeissa/massar-logistics-android/releases/download/v1.12/massar-logistics.apk",
+  "minVersionCode": 13,
+  "notes": "Delivery notes now scan like a scanner app: white paper, dark text, stamp colours kept, saved as one PDF.",
+  "notesAr": "إذن التسليم يُمسح الآن كماسح ضوئي: ورق أبيض ونص واضح مع الحفاظ على ألوان الختم، ويُحفظ كملف PDF واحد.",
+  "sha256": "0115fcca0568bc4c9509ec2048655a470bd9242f2dccf740251d8168ed0d13a7",
+  "sizeBytes": 34656211,
+  "publishedAt": "2026-11-21T05:14:42Z"
 }
